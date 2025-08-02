@@ -16,6 +16,7 @@ x64/
 x86/
 obj/
 bin/
+.vs/
 # Files built by Visual Studio
 *_i.c
 *_p.c
